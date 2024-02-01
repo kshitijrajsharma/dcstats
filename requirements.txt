@@ -1,0 +1,4 @@
+geopandas==0.14.3 
+requests==2.31.0 
+pygwalker==0.4.4 
+plotly==5.18.0 
