@@ -167,7 +167,7 @@ if geojson:
                 popup_fields=popup_fields,
                 field_to_plot=field_to_plot,
             )
-        st.subheader("Visualization")
+        st.subheader("Charts Builder")
         init_streamlit_comm()
 
         @st.cache_resource
