@@ -108,6 +108,7 @@ def gen_chloropleth_map(geojson, gdf, popup_fields, field_to_plot):
         opacity=0.5,
         hover_data=["popup_text"],
     )
+    fig.update_layout(showlegend=False)
 
     st.plotly_chart(fig)
 
