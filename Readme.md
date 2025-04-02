@@ -1,3 +1,5 @@
+This repo is obsolute , Follow https://github.com/kshitijrajsharma/osmdc for latest ! 
+
 ## Visualization for data completeness metrics on openstreetmap 
 
 Generate OSM data completeness stats for your geojson file
